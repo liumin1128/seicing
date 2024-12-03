@@ -1,0 +1,37 @@
+@import url(https://seicing.com/css/table.css);
+
+#customers {
+    width: 100%;
+}
+
+#ciyaus {
+    width: 100%;
+}
+
+#aoe4de {
+    border-collapse: collapse;
+}
+
+#aoe4de th,
+#aoe4de td {
+    border: 1px solid #888888;
+}
+
+#empire {
+    border-collapse: collapse;
+}
+
+#empire td,
+#empire th {
+    width: 150px;
+    max-height: 150px;
+    border: 1px solid #888888;
+    text-align: center;
+}
+
+#empire img {
+    width: auto;
+    max-width: 100px;
+    height: auto;
+    max-height: 100px;
+}
